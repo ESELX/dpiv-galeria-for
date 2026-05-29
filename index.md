@@ -1,16 +1,16 @@
 ---
-title: "Nome do Grupo"
+title: Nome do Grupo
 icon: lucide/users
 tags: galeria
 status: not-started
 hero_image: attachments/hero.jpg
-hero_title: "Pó Pó"
-hero_subtitle: "Carrinhos de Madeira"
+hero_title: Brinquedos Sensoriais
+hero_subtitle: Brinquedos Sensoriais (para crianças autistas)
 hero_height: 100vh
 hero_overlay: 0.3
 hero_align: center
 published: true
-course: "DesignDeProdutoIV"
+course: DesignDeProdutoIV
 group_name: ""
 group_number: ""
 ---
@@ -21,11 +21,11 @@ group_number: ""
 
 ## Elementos do Grupo
 
-| Número  | Nome    |
-| ------- | ------- |
-| 20XXXXX | Aluno A |
-| 20YYYYY | Aluno B |
-| 20ZZZZZ | Aluno C |
+| Número  | Nome            |
+| ------- | --------------- |
+| 2024332 | Matilde Brandão |
+| 20YYYYY | Rafaela Pereira |
+| 20ZZZZZ | Filipa Gomes    |
 
 ---
 
