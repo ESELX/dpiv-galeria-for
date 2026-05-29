@@ -1,5 +1,5 @@
 ---
-title: Nome do Produto
+title: Mesa Sensorial
 icon: lucide/box
 tags: galeria
 status: not-started
@@ -10,11 +10,12 @@ hero_height: 80vh
 hero_overlay: 0.25
 hero_align: center
 published: true
-student_name: FMR_Nestor
-student_number: ""
+student_name: RafaelaPereira
+student_number: "2024344"
 ---
 
-# Nome do Produto
+# Mesa Sensorial
+
 
 <!--
   HERO: idealmente uma pseudo-sessão fotográfica do produto
