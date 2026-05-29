@@ -10,7 +10,7 @@ hero_height: 80vh
 hero_overlay: 0.25
 hero_align: center
 published: true
-student_name: FMR_Nestor
+student_name: Filipa Gomes
 student_number: ""
 ---
 

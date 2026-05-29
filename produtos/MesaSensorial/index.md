@@ -3,7 +3,9 @@ title: Mesa Sensorial
 icon: lucide/box
 tags: galeria
 status: not-started
-hero_image: attachments/hero.jpg
+hero_image: |-
+  
+  attachments/placeholder.png
 hero_title: Nome do Produto
 hero_subtitle: Nome do Aluno · 2025-26
 hero_height: 80vh
@@ -17,7 +19,7 @@ student_number: "2024344"
 # Mesa Sensorial
 
 
-<!--
+<!--![]
   HERO: idealmente uma pseudo-sessão fotográfica do produto
   (ver tutorial Pletor.ai nos Recursos da disciplina, em
   /Recursos/AI_exps/). Usa attachments/hero.jpg para o frontmatter.
