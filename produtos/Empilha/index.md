@@ -1,20 +1,21 @@
 ---
-title: Nome do Produto
+title: Empilha
 icon: lucide/box
 tags: galeria
 status: not-started
-hero_image: attachments/hero.jpg
-hero_title: Nome do Produto
-hero_subtitle: Nome do Aluno · 2025-26
+hero_image: attachments/placeholder.png
+hero_title:
+hero_subtitle: Matilde Brandão · 2025-26
 hero_height: 80vh
 hero_overlay: 0.25
 hero_align: center
 published: true
-student_name: FMR_Nestor
-student_number: ""
+student_name: Matilde Valentim Brandão
+student_number: "2024332"
 ---
 
-# Nome do Produto
+# Empilha
+
 
 <!--
   HERO: idealmente uma pseudo-sessão fotográfica do produto
@@ -22,7 +23,7 @@ student_number: ""
   /Recursos/AI_exps/). Usa attachments/hero.jpg para o frontmatter.
 -->
 
-> Frase-conceito (uma linha): qual é a proposta?
+> Conceito: Brinquedos de madeira para crianças autistas.
 
 A página deve tornar **visualmente percetível** a estratégia de resposta ao enunciado.
 Segue a estrutura de **prancha-resumo** + **esquema-base** (C-E-T-F).
