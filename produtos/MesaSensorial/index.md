@@ -25,20 +25,19 @@ student_number: "2024344"
   /Recursos/AI_exps/). Usa attachments/hero.jpg para o frontmatter.
 -->
 
-> Frase-conceito (uma linha): qual é a proposta?
-
-A página deve tornar **visualmente percetível** a estratégia de resposta ao enunciado.
-Segue a estrutura de **prancha-resumo** + **esquema-base** (C-E-T-F).
+> Uma mesa interativa que estimula a exploração sensorial através do som, do toque e da cor.
 
 ## Conceito
 
-Ideia central do produto. O que é, para quem, porquê.
+A Mesa Sensorial é um brinquedo educativo concebido para promover a exploração multissensorial por parte das crianças. Integra diferentes elementos interativos, incluindo cordas de guitarra, pequenos tambores e uma roda das cores, permitindo experiências de descoberta através da audição, do tato e da perceção visual.
+
+O produto destina-se a crianças em idade pré-escolar e escolar, incentivando a criatividade, a coordenação motora e a aprendizagem através da brincadeira livre. A combinação de estímulos sonoros e visuais promove a curiosidade e o desenvolvimento cognitivo de forma intuitiva e divertida.
 
 ![](attachments/placeholder.png)
 
 ## Enquadramento
 
-Posicionamento em relação ao contexto de grupo (ver [contexto](../../contexto.md)) e à recolha de objetos a redesenhar.
+A Mesa Sensorial enquadra-se no tema do desenvolvimento sensorial infantil, proporcionando diferentes formas de interação num único produto. A seleção das cordas de guitarra, dos tambores e da roda das cores resulta da intenção de explorar múltiplos sentidos de forma integrada. (ver [contexto](../../contexto.md)) 
 
 ## Tecnologia
 
@@ -49,7 +48,15 @@ Materiais (espécie de madeira), processos de fabrico (CNC, laser, impressão 3D
 
 ## Função
 
-Como se brinca, idade-alvo, montagem, conformidade com a Diretiva 2009/48/CE.
+A criança pode explorar livremente os diferentes elementos da mesa:
+
+- Tocar nas cordas para produzir sons e vibrações;
+- Percutir os pequenos tambores para experimentar diferentes ritmos;
+- Rodar a roda das cores para observar combinações cromáticas e explorar relações visuais.
+
+O produto destina-se a crianças a partir dos 3 anos de idade e promove o desenvolvimento da coordenação motora fina, da perceção sensorial e da criatividade.
+
+Na conceção do produto foram considerados princípios de segurança adequados ao público infantil, incluindo cantos arredondados, materiais resistentes e componentes devidamente fixados, de acordo com os requisitos gerais da Diretiva 2009/48/CE relativa à segurança dos brinquedos.
 
 ## Apresentação
 
