@@ -1,8 +1,8 @@
 ---
-title: Empilha
+title: Colmeia
 icon: lucide/box
 tags: galeria
-status: not-started
+status:
 hero_image: attachments/placeholder.png
 hero_title:
 hero_subtitle: Matilde Brandão · 2025-26
@@ -25,14 +25,12 @@ student_number: "2024332"
 
 > Conceito: Brinquedos de madeira para crianças autistas.
 
-A página deve tornar **visualmente percetível** a estratégia de resposta ao enunciado.
-Segue a estrutura de **prancha-resumo** + **esquema-base** (C-E-T-F).
-
 ## Conceito
 
-Ideia central do produto. O que é, para quem, porquê.
+**Colmeia** é um brinquedo de madeira inspirado na estrutura perfeita das colmeias naturais. Através de módulos hexagonais empilháveis, convida a criança a explorar a organização, a cor, o equilíbrio e a construção de forma intuitiva e livre.
+O brinquedo foi concebido para proporcionar uma experiência calma e previsível, valorizando o processo de descoberta em vez do resultado final.
 
-![](attachments/placeholder.png)
+![](attachments/kdnedrfikbnov5.png)
 
 ## Enquadramento
 
@@ -40,23 +38,29 @@ Posicionamento em relação ao contexto de grupo (ver [contexto](../../contexto.
 
 ## Tecnologia
 
-Materiais (espécie de madeira), processos de fabrico (CNC, laser, impressão 3D), software paramétrico, ficheiros técnicos.
-
+Falta: processos de fabrico (CNC, laser, impressão 3D), software paramétrico, ficheiros técnicos.
+A madeira a ser utilizada seria a Faia, perante uma pesquisa feita anteriormente, a conclusão foi que a Faia seria a melhor opção devido à sua suavidade, o facto de ser resistente ao impacto, fácil de lixar e arredondar e pela sua cor clara e neutra que permite fazer posteriormente o tingimento da própria sem problemas.
 - Modelo 3D: <!-- embed Fusion ou link a360.co -->
 - Ficheiros: `attachments/`
 
 ## Função
 
-Como se brinca, idade-alvo, montagem, conformidade com a Diretiva 2009/48/CE.
+Cada peça representa uma célula de uma colmeia, a peça individualmente é simples, mas é capaz de criar infinitas combinações quando integrada num conjunto. 
+A criança pode empilhar, alinhar, agrupar por cores, criar padrões ou construir estruturas tridimensionais, desenvolvendo competências cognitivas e sensoriais através da experimentação.
 
 ## Apresentação
 
-Imagens-chave que sintetizam o produto final.
+![](attachments/pwsmocfqmvoplwjmopl.png)
 
-![](attachments/placeholder.png)
-![](attachments/placeholder.png)
+![](attachments/jpodshb%20ogajbn+opa.png)
 
+![](attachments/paivbnwvnolpçewdjnvbpoewjmikl.png)
+
+![](attachments/mvwsronbvm%20+pewmvo+p.png)
 ---
+
+
+
 
 ## Processo
 
