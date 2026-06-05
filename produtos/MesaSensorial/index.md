@@ -1,13 +1,13 @@
 ---
-title: Mesa Sensorial
+title: Mesa Sensorial Auditiva
 icon: lucide/box
 tags: galeria
-status: not-started
+status: finished
 hero_image: |-
   
   attachments/placeholder.png
-hero_title: Nome do Produto
-hero_subtitle: Nome do Aluno · 2025-26
+hero_title: Mesa Sensorial Auditiva
+hero_subtitle: Rafaela Pereira · 2025-26
 hero_height: 80vh
 hero_overlay: 0.25
 hero_align: center
@@ -16,7 +16,7 @@ student_name: RafaelaPereira
 student_number: "2024344"
 ---
 
-# Mesa Sensorial
+# Mesa Sensorial Auditiva
 
 
 <!--![]
@@ -29,9 +29,9 @@ student_number: "2024344"
 
 ## Conceito
 
-A Mesa Sensorial é um brinquedo educativo concebido para promover a exploração multissensorial por parte das crianças. Integra diferentes elementos interativos, incluindo cordas de guitarra, pequenos tambores e uma roda das cores, permitindo experiências de descoberta através da audição, do tato e da perceção visual.
+A Mesa Sensorial Auditiva é um brinquedo educativo concebido para promover a exploração multissensorial por parte das crianças. Integra diferentes elementos interativos, incluindo cordas de guitarra, pequenos tambores e uma roda das cores, permitindo experiências de descoberta através da audição, do tato e da perceção visual.
 
-O produto destina-se a crianças em idade pré-escolar e escolar, incentivando a criatividade, a coordenação motora e a aprendizagem através da brincadeira livre. A combinação de estímulos sonoros e visuais promove a curiosidade e o desenvolvimento cognitivo de forma intuitiva e divertida.
+O produto destina-se a crianças na idade pré-escolar e escolar, incentivando a criatividade, a coordenação motora e a aprendizagem através da brincadeira livre. A combinação de estímulos sonoros e visuais promove a curiosidade e o desenvolvimento cognitivo de forma intuitiva e divertida.![](attachments/Captura_de_ecra_2026-06-02_002908.png)
 
 ![](attachments/placeholder.png)
 
@@ -60,11 +60,10 @@ Na conceção do produto foram considerados princípios de segurança adequados 
 
 ## Apresentação
 
-Imagens-chave que sintetizam o produto final.
+Imagens-chave que sintetizam o produto final.![](attachments/Captura_de_ecra_2026-06-02_003135.png)
 
-![](attachments/placeholder.png)
-![](attachments/placeholder.png)
 
+![](attachments/Captura_de_ecra_2026-06-02_003023.png)
 ---
 
 ## Processo
