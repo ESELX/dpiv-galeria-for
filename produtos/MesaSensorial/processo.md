@@ -13,8 +13,15 @@ published: true
 ---
 
 # Processo
+O desenvolvimento da mesa sensorial musical teve início com uma fase de pesquisa sobre as necessidades e características de crianças com Perturbação do Espetro do Autismo (PEA). O principal objetivo do projeto foi criar um brinquedo educativo e inclusivo que promovesse a estimulação sensorial, a exploração tátil e o contacto com a música através de uma experiência simples e intuitiva.
 
-> Organizado do **mais recente** para o **mais antigo**. Faz uma seleção que torne clara, aprazível e detalhada a evolução do produto e das ideias.
+Numa primeira fase foram analisados os elementos que mais despertam o interesse e a atenção de crianças autistas, nomeadamente estímulos visuais suaves, diferentes texturas, movimentos repetitivos e sons agradáveis. Com base nesta pesquisa surgiu a ideia de desenvolver uma mesa multissensorial que reunisse vários elementos de interação num único produto, permitindo à criança explorar diferentes sensações de forma segura e autónoma.
+A música foi escolhida como elemento central do projeto devido aos seus benefícios no desenvolvimento cognitivo, emocional e social. Como inspiração principal foi utilizada a guitarra, um instrumento de fácil reconhecimento e que permite uma interação direta com o som. A inclusão de cordas na superfície da mesa procura incentivar o primeiro contacto com instrumentos musicais, despertando a curiosidade da criança e promovendo a exploração sonora através do toque.
+
+Além da componente musical, foram integrados diversos elementos sensoriais. Os botões circulares foram concebidos para estimular a perceção tátil e visual através das suas cores e formas simples. O disco rotativo colorido permite a exploração visual e motora, incentivando movimentos repetitivos frequentemente apreciados por crianças com autismo. O cilindro texturizado acrescenta uma experiência tátil adicional, proporcionando diferentes sensações ao toque e contribuindo para a estimulação sensorial.
+A construção do modelo 3D da mesa sensorial musical no Fusion 360 foi uma experiência de tentativa erro, na qual experimentei várias medidas e diferentes tipos de encaixe para as diferentes peças. 
+Por exemplo, para os pad de bateria pensei em colocar parafusos, ou buchas, mas dado o tipo de material dos pads, optei por criar apenas o espaço com o tamanho de encaixe dos pads para posteriormente serem colados. Com a caixa da guitarra o procedimento foi igual. 
+Com o Reco-reco foi o pensamento contrário. inicialmente pensei em colar as peças e depois optei por aparafusar a base à mesa e criar um encaixe estilo bucha do suporte para o corpo do reco-reco.
 
 ## 1. Protótipo(s)
 
@@ -43,9 +50,7 @@ Uma vez feita a montagem completa da mesa, voltamos a fazer uma verificação do
 
 ## 3. Protótipos Exploratórios
 
-A construção do modelo 3D da mesa sensorial musical no Fusion 360 foi uma experiência de tentativa erro, na qual experimentei várias medidas e diferentes tipos de encaixe para as diferentes peças. 
-Por exemplo, para os pad de bateria pensei em colocar parafusos, ou buchas, mas dado o tipo de material dos pads, optei por criar apenas o espaço com o tamanho de encaixe dos pads para posteriormente serem colados. Com a caixa da guitarra o procedimento foi igual. 
-Com o Reco-reco foi o pensamento contrário. inicialmente pensei em colar as peças e depois optei por aparafusar a base à mesa e criar um encaixe estilo bucha do suporte para o corpo do reco-reco.
+-
 
 
 ## 4. Modelos 3D
@@ -55,7 +60,7 @@ https://a360.co/4wQOPxc
 
 ## 5. Outros Modelos
 
-Modelos físicos exploratórios, em cartão, espuma, madeira de teste.
+Modelos físicos exploratórios, em cartão, espuma, madeira de teste,(fotos generadas por IA)
 
 ![](attachments/Screenshot%202026-06-07%20at%2014.10.36.png)
 
@@ -70,6 +75,8 @@ Modelos físicos exploratórios, em cartão, espuma, madeira de teste.
 
 ### 7.1. Aspectos valorizados do moodboard, desconstrução da forma (o que distingue o programa formal)
 
+![](attachments/Screenshot%202026-06-07%20at%2022.48.12.png)
+
 
 ### 7.2. Objetos de referencia
 
@@ -80,5 +87,26 @@ Inventário de precedentes, brinquedos análogos, referências históricas.
 ![](attachments/Screenshot%202026-06-07%20at%2014.40.04.png)
 ## 9. Outros Elementos
 
-Outros materiais relevantes para a preparação do conceito (entrevistas, observação, testes com utilizadores, notas, leituras, inspirações).
 
+
+https://www.inspiradospeloautismo.com.br/a-abordagem/brinquedos-para-criancas-com-autismo/![](attachments/Captura%20de%20ecrã%202026-06-02%20004031.png)
+
+![](attachments/Captura%20de%20ecrã%202026-06-06%20001855.png)
+
+![](attachments/Captura%20de%20ecrã%202026-06-06%20001930.png)
+
+![](attachments/Captura%20de%20ecrã%202026-06-06%20001942.png)
+
+![](attachments/Captura%20de%20ecrã%202026-06-06%20002004.png)
+
+![](attachments/Captura%20de%20ecrã%202026-06-06%20002027.png)
+
+![](attachments/Captura%20de%20ecrã%202026-06-06%20002110.png)
+
+![](attachments/Captura%20de%20ecrã%202026-06-06%20002148.png)
+
+![](attachments/Captura%20de%20ecrã%202026-06-06%20002200.png)
+
+![](attachments/Captura%20de%20ecrã%202026-06-06%20002215.png)
+
+![](attachments/Captura%20de%20ecrã%202026-06-06%20002244.png)![](attachments/Captura%20de%20ecrã%202026-06-02%20004031%201.png)![](attachments/Screenshot%202026-06-07%20at%2022.51.32.png)![](attachments/Captura_de_ecra_2026-06-01_020123.png)![](attachments/Captura_de_ecra_2026-06-02_003840.png)

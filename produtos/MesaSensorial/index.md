@@ -18,13 +18,6 @@ student_number: "2024344"
 
 # Mesa Sensorial Auditiva
 
-
-<!--![]
-  HERO: idealmente uma pseudo-sessão fotográfica do produto
-  (ver tutorial Pletor.ai nos Recursos da disciplina, em
-  /Recursos/AI_exps/). Usa attachments/hero.jpg para o frontmatter.
--->
-
 > Uma mesa interativa que estimula a exploração sensorial através do som, do toque e da cor.
 
 ## Conceito
