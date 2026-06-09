@@ -72,8 +72,8 @@ Resumo, referências coletivas e moodboard do grupo encontram-se em [contexto.md
 
   <a class="gallery-card" href="produtos/_modelo/">
     <img src="produtos/_modelo/attachments/hero.jpg" alt="" />
-    <h3>Empilha</h3>
-    <p>Matilde Brandão</p>
+    <h3>nome do pro</h3>
+    <p>nome</p>
   </a>
 
   <!-- duplicar o bloco acima para cada produto do grupo  e substituir _modelo em ambas por <numero>-<nome> -->
