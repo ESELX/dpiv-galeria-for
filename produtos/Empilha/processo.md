@@ -1,11 +1,11 @@
 ---
-title: "Processo"
+title: Processo
 icon: lucide/git-branch
 tags: galeria
 status: not-started
-hero_image: ../attachments/hero.jpg
-hero_title: "Processo"
-hero_subtitle: "Iterações, modelos, pesquisa"
+hero_image: ../attachments/empilhacapa.jpg
+hero_title: Processo
+hero_subtitle: Iterações, modelos, pesquisa
 hero_height: 50vh
 hero_overlay: 0.3
 hero_align: center
@@ -14,11 +14,9 @@ published: true
 
 # Processo
 
-> Organizado do **mais recente** para o **mais antigo**. Faz uma seleção que torne clara, aprazível e detalhada a evolução do produto e das ideias.
-
 ## 1. Protótipo(s)
 
-
+Não foram realizados protótipos.
 ![Protótipo final](attachments/placeholder.png)
 ![](attachments/placeholder.png)
 
@@ -67,13 +65,13 @@ Prancha resumo atualizada:
 
 Perante todos os estímulos e interesses diferentes decidi focar-me em algo que se dirigisse à organização visual e cromática.
 Uma brincadeira tranquila, sem pressa, onde cada criança pode fazer oque quiser ao seu ritmo. Podendo até ser usado futuramente em clínicas e escolas de forma a trabalhar a organização com a criança, seja esta de forma terapêutica ou apenas estimulante.
-![](attachments/placeholder.png)
+
 
 ### 7.2. Objetos de referencia
 
 Inventário de precedentes, brinquedos análogos, referências históricas.
 
-![](attachments/placeholder.png)
+
 
 ## 9. Outros Elementos
 

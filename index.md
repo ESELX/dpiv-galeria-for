@@ -15,9 +15,10 @@ group_name: ""
 group_number: ""
 ---
 
-# Nome do Grupo
+# Matilde, Filipa e Rafaela
 
-> Substituam este parágrafo por uma frase de apresentação do grupo (uma linha, conceptualmente forte). A imagem de capa acima (`attachments/hero.jpg`) deve ser uma **fotografia de conjunto** dos trabalhos do grupo, mais conceptual, que espelhe a estratégia coletiva.
+> O nosso grupo tem o objetivo de trazer para as crianças com autismo brinquedos mais adptáveis aos seus interesses e aos estímulos que necessitam.
+>  A imagem de capa acima (`attachments/hero.jpg`) deve ser uma **fotografia de conjunto** dos trabalhos do grupo, mais conceptual, que espelhe a estratégia coletiva.
 
 ## Elementos do Grupo
 
@@ -31,7 +32,7 @@ group_number: ""
 
 ## Contexto de Design
 
-
+colocar imagem de capa- nota
 ![](attachments/hero.png)Nesta zona pretenderão mostrar o que relaciona estes produtos que apresentam na galeria - a temática, conceito comum, objectivos comuns, brincadeiras (funções) comuns, entre outros...
 
 (devem colocar imagens no corpo a qq momento, bastará que as arrastem para aqui.)

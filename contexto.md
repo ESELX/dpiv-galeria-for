@@ -15,7 +15,6 @@ published: true
 # Contexto de Design
 
 
-
 ## 1. Resumo / Abstract
 
 > Máximo 500 palavras. Preferencialmente em **PT** e **EN**.
@@ -40,9 +39,11 @@ Catálogo de objetos de partida que o grupo identificou para o redesenho. Para c
 
 ![Objeto 1](attachments/placeholder.png)
 
-- **Objeto 1** — origem / autoria / razão da escolha
-- **Objeto 2** — ...
+Empilha:
 
+![](attachments/ikea.png)
+UnderHalla- Ikea;
+Este produto promete ajudar a aprender formas e cores, tal como igualmente dar várias hipóteses de construções à criança. Mas tendo em conta que o meu objetivo é que o empilhamento seja simples e sem stress, o facto de que nem todas estas formas são capazes de se empilhar umas em cima das outras iria criar possivelmente algum transtorno. Portanto decidi partir deste conceito e redesenhar o produto.
 ### 2.2. Moodboard
 
 Painel de referências visuais e conceptuais que orientam a estratégia do grupo.
