@@ -18,7 +18,6 @@ published: true
 
 ## 1. Protótipo(s)
 
-Fotografias em estúdio com fundo branco do(s) protótipo(s) final(is).
 
 ![Protótipo final](attachments/placeholder.png)
 ![](attachments/placeholder.png)
@@ -50,16 +49,24 @@ Modelos físicos exploratórios, em cartão, espuma, madeira de teste.
 
 ## 6. Esboços e Pranchas-Resumo
 
-Desenhos manuais, 
-pranchas A3 de síntese, 
-exploração de variantes.
+Prancha resumo inicial:
 
+![](attachments/Prancha%20de%20resumo_MatildeBrandao2L.jpeg) 
 ![](attachments/placeholder.png)
+
+Prancha resumo atualizada: 
+
+![](attachments/Prancha%20resumo%202.jpeg)
+
 
 ## 7. Pesquisa
 
 ### 7.1. Aspectos valorizados do moodboard, desconstrução da forma (o que distingue o programa formal)
 
+![](attachments/Matilde%20Brandão.pdf)
+
+Perante todos os estímulos e interesses diferentes decidi focar-me em algo que se dirigisse à organização visual e cromática.
+Uma brincadeira tranquila, sem pressa, onde cada criança pode fazer oque quiser ao seu ritmo. Podendo até ser usado futuramente em clínicas e escolas de forma a trabalhar a organização com a criança, seja esta de forma terapêutica ou apenas estimulante.
 ![](attachments/placeholder.png)
 
 ### 7.2. Objetos de referencia

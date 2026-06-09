@@ -63,3 +63,21 @@ Resumo, referências coletivas e moodboard do grupo encontram-se em [contexto.md
 
 </div>
 <!-- markdownlint-enable MD033 -->
+
+
+<!-- markdownlint-disable MD033 -->
+<div class="gallery-grid">
+
+  <!-- duplicar o bloco abaixo para cada produto do grupo -->
+
+  <a class="gallery-card" href="produtos/_modelo/">
+    <img src="produtos/_modelo/attachments/hero.jpg" alt="" />
+    <h3>Empilha</h3>
+    <p>Matilde Brandão</p>
+  </a>
+
+  <!-- duplicar o bloco acima para cada produto do grupo  e substituir _modelo em ambas por <numero>-<nome> -->
+
+</div>
+<!-- markdownlint-enable MD033 -->
+

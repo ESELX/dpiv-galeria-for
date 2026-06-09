@@ -38,7 +38,7 @@ Posicionamento em relação ao contexto de grupo (ver [contexto](../../contexto.
 
 ## Tecnologia
 
-Falta: processos de fabrico (CNC, laser, impressão 3D), software paramétrico, ficheiros técnicos.
+ ficheiros técnicos.
 A madeira a ser utilizada seria a Faia, perante uma pesquisa feita anteriormente, a conclusão foi que a Faia seria a melhor opção devido à sua suavidade, o facto de ser resistente ao impacto, fácil de lixar e arredondar e pela sua cor clara e neutra que permite fazer posteriormente o tingimento da própria sem problemas.
 - Modelo 3D: <!-- embed Fusion ou link a360.co -->
 - Ficheiros: `attachments/`
@@ -50,6 +50,8 @@ A criança pode empilhar, alinhar, agrupar por cores, criar padrões ou construi
 
 ## Apresentação
 
+Imagens em fusion:
+
 ![](attachments/pwsmocfqmvoplwjmopl.png)
 
 ![](attachments/jpodshb%20ogajbn+opa.png)
@@ -59,7 +61,12 @@ A criança pode empilhar, alinhar, agrupar por cores, criar padrões ou construi
 ![](attachments/mvwsronbvm%20+pewmvo+p.png)
 ---
 
+Mockups da embalagem com o produto:
 
+![](attachments/ChatGPT%20Image%209_06_2026,%2022_06_38.png)
+
+As cores do produto variam entre degradês azuis como está representado acima, verdes e amarelos. Esta escolha seria feita na compra do produto, optando então pela cor desejada.
+O tamanho da embalagem dependerá da quantidade de peças, futuramente seriam feitos packs de 20,50,100 ou mais peças, o consumidor poderia escolher a quantidade que deseja.
 
 
 ## Processo
