@@ -3,7 +3,7 @@ title: Nome do Grupo
 icon: lucide/users
 tags: galeria
 status: not-started
-hero_image: attachments/hero.jpg
+hero_image: ../attachments/CapaGaleria.png
 hero_title: Brinquedos Sensoriais
 hero_subtitle: Brinquedos Sensoriais (para crianças autistas)
 hero_height: 100vh
