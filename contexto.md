@@ -35,15 +35,13 @@ The design of each toy aims to be simple and effective, simple so that it is not
 
 ### 2.1. Recolha de Objetos a Redesenhar/Remisturar
 
-Catálogo de objetos de partida que o grupo identificou para o redesenho. Para cada objeto: imagem, origem, motivo da escolha.
 
 ![Objeto 1](attachments/placeholder.png)
-
-Empilha:
 
 ![](attachments/ikea.png)
 UnderHalla- Ikea;
 Este produto promete ajudar a aprender formas e cores, tal como igualmente dar várias hipóteses de construções à criança. Mas tendo em conta que o meu objetivo é que o empilhamento seja simples e sem stress, o facto de que nem todas estas formas são capazes de se empilhar umas em cima das outras iria criar possivelmente algum transtorno. Portanto decidi partir deste conceito e redesenhar o produto.
+
 ### 2.2. Moodboard
 
 Painel de referências visuais e conceptuais que orientam a estratégia do grupo.
