@@ -26,7 +26,7 @@ group_number: ""
 | ------- | --------------- |
 | 2024332 | Matilde Brandão |
 | 20YYYYY | Rafaela Pereira |
-| 20ZZZZZ | Filipa Gomes    |
+| 2024321 | Filipa Gomes    |
 
 ---
 
@@ -72,14 +72,14 @@ Resumo, referências coletivas e moodboard do grupo encontram-se em [contexto.md
 
   <!-- duplicar o bloco abaixo para cada produto do grupo -->
 
-  <a class="gallery-card" href="produtos/_modelo/">
-    <img src="produtos/_modelo/attachments/hero.jpg" alt="" />
-    <h3>nome do produto</h3>
-    <p>nome do aluno</p>
+  <a class="gallery-card" href="produtos/2024321_Filipa/">
+    <img src="produtos/2024321_Filipa/attachments/hero.jpg" alt="" />
+    <h3>Formas</h3>
+    <p>Filipa Gomes</p>
   </a>
 
   <!-- duplicar o bloco acima para cada produto do grupo  e substituir _modelo em ambas por <numero>-<nome> -->
 
 </div>
 <!-- markdownlint-enable MD033 -->
-
+- [ ] 

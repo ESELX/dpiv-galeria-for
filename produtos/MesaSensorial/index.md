@@ -61,6 +61,6 @@ Imagens-chave que sintetizam o produto final.![](attachments/Captura_de_ecra_202
 
 ## Processo
 
-O percurso completo de iterações, modelos e pesquisa está em [processo.md](processo.md), organizado do **mais recente** para o **mais antigo**.
+O percurso completo de iterações, modelos e pesquisa está em [processo.md](dpiv-galeria-for/produtos/MesaSensorial/processo.md), organizado do **mais recente** para o **mais antigo**.
 
-[Ver processo completo →](processo.md)
+[Ver processo completo →](dpiv-galeria-for/produtos/MesaSensorial/processo.md)

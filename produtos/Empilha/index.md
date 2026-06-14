@@ -71,6 +71,6 @@ Na zona superior da parte interior, na aba de abertura, seria onde estaria coloc
 
 ## Processo
 
-O percurso completo de iterações, modelos e pesquisa está em [processo.md](processo.md), organizado do **mais recente** para o **mais antigo**.
+O percurso completo de iterações, modelos e pesquisa está em [processo.md](dpiv-galeria-for/produtos/Empilha/processo.md), organizado do **mais recente** para o **mais antigo**.
 
-[Ver processo completo →](processo.md)
+[Ver processo completo →](dpiv-galeria-for/produtos/Empilha/processo.md)
