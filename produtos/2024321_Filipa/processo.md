@@ -20,20 +20,6 @@ published: true
 
 Não foram realizados protótipos para este produto.
 
-![Protótipo final](attachments/placeholder.png)
-![](attachments/placeholder.png)
-
-
-
-Maquinação CNC, montagem, acabamentos pontuais. 
-
-![](attachments/placeholder.png)
-
-
-
-Testes CNC prévios, ensaios em escala, experiências de juntas/encaixes.
-
-![](attachments/placeholder.png)
 
 ## 4. Modelos 3D
 
@@ -47,7 +33,7 @@ https://a360.co/4nqYoPa
 
 Modelos físicos exploratórios, em cartão, espuma, madeira de teste.
 
-![](attachments/placeholder.png)
+
 
 ## 6. Esboços e Pranchas-Resumo
 
