@@ -24,9 +24,9 @@ student_number: "2024344"
 
 A Mesa Sensorial Auditiva é um brinquedo educativo concebido para promover a exploração multissensorial por parte das crianças. Integra diferentes elementos interativos, incluindo cordas de guitarra, pequenos tambores e uma roda das cores, permitindo experiências de descoberta através da audição, do tato e da perceção visual.
 
-O produto destina-se a crianças na idade pré-escolar e escolar, incentivando a criatividade, a coordenação motora e a aprendizagem através da brincadeira livre. A combinação de estímulos sonoros e visuais promove a curiosidade e o desenvolvimento cognitivo de forma intuitiva e divertida.![](attachments/Captura_de_ecra_2026-06-02_002908.png)
+O produto destina-se a crianças na idade pré-escolar e escolar, incentivando a criatividade, a coordenação motora e a aprendizagem através da brincadeira livre. A combinação de estímulos sonoros e visuais promove a curiosidade e o desenvolvimento cognitivo de forma intuitiva e divertida.
+![](attachments/Captura_de_ecra_2026-06-02_002908.png)
 
-![](attachments/placeholder.png)
 
 ## Enquadramento
 
@@ -36,7 +36,7 @@ A Mesa Sensorial enquadra-se no tema do desenvolvimento sensorial infantil, prop
 
 Materiais (espécie de madeira), processos de fabrico (CNC, laser, impressão 3D), software paramétrico, ficheiros técnicos.
 
-- Modelo 3D: <!-- embed Fusion ou link a360.co -->
+- Modelo 3D: [https://a360.co/4wQOPxc](https://a360.co/4wQOPxc "https://a360.co/4wQOPxc")
 - Ficheiros: `attachments/`
 
 ## Função
@@ -53,8 +53,7 @@ Na conceção do produto foram considerados princípios de segurança adequados 
 
 ## Apresentação
 
-Imagens-chave que sintetizam o produto final.![](attachments/Captura_de_ecra_2026-06-02_003135.png)
-
+![](attachments/Captura_de_ecra_2026-06-02_003135.png)
 
 ![](attachments/Captura_de_ecra_2026-06-02_003023.png)
 ---
