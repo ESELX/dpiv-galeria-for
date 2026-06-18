@@ -45,7 +45,11 @@ O projeto propõe uma abordagem lúdica baseada na lógica, na construção e na
 
 ## Enquadramento
 
-Posicionamento em relação ao contexto de grupo (ver [contexto](../../contexto.md)) e à recolha de objetos a redesenhar.
+O presente projeto insere-se na área dos brinquedos educativos inclusivos, sendo desenvolvido com o objetivo de promover a aprendizagem através do jogo e da exploração ativa. Concebido especialmente para crianças com Perturbação do Espectro do Autismo (PEA), o brinquedo procura responder às necessidades de aprendizagem visual, organização espacial e desenvolvimento do raciocínio lógico, através de uma abordagem estruturada e intuitiva.
+
+A proposta combina um sistema de encaixe tridimensional com cartões de referência ilustrados que orientam a construção passo a passo. Através da manipulação de formas geométricas simples, a criança é incentivada a recriar imagens e estruturas, desenvolvendo competências como a perceção espacial, a sistematização, a coordenação motora fina e a capacidade de resolução de problemas.
+
+A utilização da madeira como material principal contribui para a durabilidade, segurança e sustentabilidade do produto, reforçando uma abordagem de design responsável. Desta forma, o brinquedo alia valor pedagógico, acessibilidade e diversão, promovendo experiências de aprendizagem significativas através da construção e da descoberta.
 
 ## Tecnologia
 
