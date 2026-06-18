@@ -75,14 +75,32 @@ ESTUDOS | ESBOÇOS
 
 ### 7.1. Aspectos valorizados do moodboard, desconstrução da forma (o que distingue o programa formal)
 
-![](attachments/placeholder.png)
+![[logos inspirações-2.jpeg]]
+
+Perante os diferentes estímulos e perfis de aprendizagem, optei por desenvolver um brinquedo centrado na Sistematização e Lógica.
+
+Trata-se de uma atividade calma e estruturada, onde cada criança pode avançar ao seu próprio ritmo, construindo a imagem final através de etapas claras e progressivas. O objetivo é promover a concentração, a associação lógica e a perceção espacial de forma acessível e intuitiva.
+
+O brinquedo pode ser utilizado tanto em contexto lúdico como em ambientes educativos e terapêuticos, como escolas ou clínicas, funcionando como um apoio ao desenvolvimento da organização cognitiva e da capacidade de resolução de problemas através da manipulação de formas
+
+
 
 ### 7.2. Objetos de referencia
 
 Inventário de precedentes, brinquedos análogos, referências históricas.
 
-![](attachments/placeholder.png)
+![[Pasted image 20260618192220.png]]
 
+![[Pasted image 20260618192248.png]]
 ## 9. Outros Elementos
 
-Outros materiais relevantes para a preparação do conceito (entrevistas, observação, testes com utilizadores, notas, leituras, inspirações).
+Leituras feitas:
+https://rhemaneuroeducacao.com.br/blog/a-importancia-das-cores-para-o-autista/
+https://autisticadvocacy.org/about-asan/about-autism/
+
+
+Dos and Dont's incorporados no trabalho:
+
+![[Pasted image 20260618192344.png]]
+
+![[Pasted image 20260618192358.png]]

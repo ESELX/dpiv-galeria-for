@@ -82,6 +82,12 @@ Após a montagem orientada, o brinquedo permite criar estruturas tridimensionais
 O **Formas** promove a lógica, perceção espacial, coordenação motora e autonomia de forma estruturada e progressiva.
 
 
+
+
+![[Pasted image 20260618190615.png]]
+
+
+
 ![[Pasted image 20260618182642.png]]
 
 
