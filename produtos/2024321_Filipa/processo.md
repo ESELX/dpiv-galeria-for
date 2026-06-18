@@ -56,7 +56,21 @@ Prancha Resumo
 ![[prancha resumo.jpeg]]
 
 
+ESTUDOS | ESBOÇOS
 
+
+
+
+![[98.jpeg]]
+
+
+
+
+![[09.jpeg]]
+
+![[WhatsApp Image 2026-06-18 at 17.39.54.jpeg]]
+
+![[8.jpeg]]
 ## 7. Pesquisa
 
 ### 7.1. Aspectos valorizados do moodboard, desconstrução da forma (o que distingue o programa formal)
