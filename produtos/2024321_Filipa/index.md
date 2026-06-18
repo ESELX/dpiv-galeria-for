@@ -53,18 +53,43 @@ A utilização da madeira como material principal contribui para a durabilidade,
 
 ## Tecnologia
 
-Materiais (espécie de madeira), processos de fabrico (CNC, laser, impressão 3D), software paramétrico, ficheiros técnicos.
+A madeira a ser utilizada seria a Faia, perante uma pesquisa feita anteriormente, a conclusão foi que a Faia seria a melhor opção devido à sua suavidade, o facto de ser resistente ao impacto, fácil de lixar e arredondar e pela sua cor clara e neutra que permite fazer posteriormente o tingimento da própria sem problemas.
+
 
 - Modelo 3D: https://a360.co/4vfYnR9
 - Ficheiros: `attachments/`
 
 ## Função
 
-Como se brinca, idade-alvo, montagem, conformidade com a Diretiva 2009/48/CE.
+O presente brinquedo funciona como um **puzzle tridimensional de lógica e construção**, desenvolvido especificamente para crianças com **autismo no perfil cognitivo da lógica e associação sequencial**.
+
+A criança utiliza **cartões de referência**, cada um com uma imagem (por exemplo: casa, bola, etc.), que apresentam na parte inferior uma **sequência de instruções visuais** que orienta a construção da figura. Através dessas instruções, a criança deve selecionar e combinar as peças corretas para reproduzir a imagem indicada.
+
+O sistema é composto por **3 formas geométricas principais**, existindo **10 peças de cada forma** (por exemplo: 10 triângulos, 10 círculos e 10 outras formas equivalentes), permitindo múltiplas combinações e níveis de desafio. As peças são encaixadas numa base estruturada, que garante estabilidade durante a construção, evitando que o puzzle se desfaça durante o processo.
+O produto destina-se preferencialmente a crianças dos **3 aos 6 anos**, promovendo o desenvolvimento da **coordenação motora fina, perceção visual e espacial, raciocínio lógico, sequência de passos e capacidade de resolução de problemas**, com especial foco em padrões estruturados e previsíveis.
+
+A montagem é realizada através da interpretação dos cartões e do encaixe progressivo das peças na base, proporcionando uma experiência **intuitiva, estruturada e repetível**, adequada às necessidades do público-alvo.
+
+O projeto foi desenvolvido considerando os princípios gerais de segurança estabelecidos pela **Diretiva 2009/48/CE relativa à segurança dos brinquedos**, assegurando a utilização de materiais seguros, resistência adequada, ausência de arestas cortantes e dimensões compatíveis com a utilização infantil.
 
 ## Apresentação
 
-Imagens-chave que sintetizam o produto final.
+O **Formas** é um brinquedo educativo tridimensional desenvolvido para crianças com autismo, focado no raciocínio lógico e na associação sequencial.  
+A criança utiliza cartões de referência com imagens e instruções que orientam a construção das figuras.  
+O jogo inclui três formas geométricas, com várias peças de cada tipo, permitindo diferentes combinações.  
+As peças são encaixadas numa base estável, garantindo segurança e apoio durante a construção.  
+Após a montagem orientada, o brinquedo permite criar estruturas tridimensionais livres, como paredes e volumes.  
+O **Formas** promove a lógica, perceção espacial, coordenação motora e autonomia de forma estruturada e progressiva.
+
+
+![[Pasted image 20260618182642.png]]
+
+
+
+
+![[Pasted image 20260618182758.png]]
+
+A definição das cores acabou por ser o azul, verde e amarelo , cada uma delas direcionada a uma forma, neste caso azul-quadrado; verde-circulo; amarelo-triângulo, esta escolha teve por base uma pesquisa sobre a relação entre cores e o desenvolvimento em crianças com autismo. Segundo uma fonte da área da neuroeducação ([https://rhemaneuroeducacao.com.br/blog/a-importancia-das-cores-para-o-autista/](https://rhemaneuroeducacao.com.br/blog/a-importancia-das-cores-para-o-autista/)), o **azul** está associado a sensações de calma e equilíbrio, o **amarelo** pode estimular a interação social e a atenção, enquanto o **verde** é frequentemente identificado como uma cor de preferência dentro da comunidade.
 
 
 
