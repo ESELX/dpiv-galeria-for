@@ -84,7 +84,7 @@ O **Formas** promove a lógica, perceção espacial, coordenação motora e au
 
 
 
-![[Pasted image 20260618190615.png]]
+![[WhatsApp Image 2026-06-18 at 19.04.05.jpeg]]
 
 
 
